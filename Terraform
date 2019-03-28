@@ -27,5 +27,5 @@ Terrforms
   		> There are four types of passing AWS Terraform Credentials
     		1. Creating IAM user and Password through provider.tf
     		2. Creating IAM user and password through environment variables
-    		3. Attach admin roles to Instance
+    		3. Attach admin roles to Instance.
     		4. Storing it under ~/.aws/

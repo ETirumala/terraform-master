@@ -1,0 +1,33 @@
+Terrforms
+	Complete Stack Deployment of "web service", "App service", "RDS"and "ELB'S"
+	Deployment of "centralized login system" using terraform ELK, logstach, elastic, Kibana
+	Centralized Monitoring
+	Complete Demployment of DynamoDB.
+		Creating tables using terraform
+		learn accratly estimate RCUS AND WCUS
+	Complete Deployiment of GCP webapp using Loadbalancer,cloudsql
+
+	AWS:
+  		> Deploy database Cluster.
+    	{Primary and Replica, Aurora MySql engine,
+     	Backup_retention and backup_window as input, DB subnet group and group association}
+
+	GCP:
+  		>
+
+	Azure:
+  		> Deploying VM's and maintaining Azure Load Balancing.
+    	{5-tuple hash: Source IP, Source Port, Destination IP(Cloud Service VIP), Destination port(Public Port), Protocol}.
+
+	Git:
+  		> Code for the course : https://github.com/cloudopsacademy/Terraformcourse
+
+	Terraform:
+  		> Credentials https://www.terraform.io/docs/providers/aws/index.html
+  		> There are 4 types of passing AWS Terraform Credentials
+    		1. Creating IAM user and Password through provider.tf
+    		2. Creating IAM user and password through environment variables
+    		3. Attach admin roles to Instance
+    		4. Storing it under ~/.aws/
+
+	

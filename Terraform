@@ -19,7 +19,7 @@ Terrforms
   		> Deploying VM's and maintaining Azure Load Balancing.
     	{5-tuple hash: Source IP, Source Port, Destination IP(Cloud Service VIP), Destination port(Public Port), Protocol}.
 
-	Git:
+	Git-hub:
   		> Code for the course : https://github.com/cloudopsacademy/Terraformcourse
 
 	Terraform:
@@ -29,5 +29,3 @@ Terrforms
     		2. Creating IAM user and password through environment variables
     		3. Attach admin roles to Instance
     		4. Storing it under ~/.aws/
-
-	

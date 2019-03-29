@@ -29,3 +29,16 @@ Terrforms
     		2. Creating IAM user and password through environment variables
     		3. Attach admin roles to Instance.
     		4. Storing it under ~/.aws/
+
+
+				root@ip-172-31-82-156:~# cat provider.tf
+
+
+resource "aws_instance" "firstdemo" {
+        ami             = "ami-922914f7"
+        instance_type   = "t2.micro"
+
+        tags {
+                Name = "demoinstance"
+        }
+}

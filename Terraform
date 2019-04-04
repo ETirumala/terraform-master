@@ -53,8 +53,8 @@ Below is a sample provider.tf file
 NOTE : You need Provider.tf to replace access_key and secret_key with generated values
 
 provider "aws" {
-	access_key = "AKIAT2D5QtyyuyMNCXMDYP3MN"
-	secret_key = "xnnp0elGBb9QLiSWmbSyuiyuiyuuiyurtserwrerw2mL8rg83jAF8Xahn3uIDO"
+	access_key = "fjksguyftfdhgFDFADYYT%7"
+	secret_key = "JFSTDSVJ465dghfgfsj"
 	region     = "us-east-1"
 }
 ==============================================================================
